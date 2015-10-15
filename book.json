@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "Ace@0.0.3"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
